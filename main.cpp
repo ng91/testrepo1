@@ -16,7 +16,7 @@ int main() {
 
 while(1){
 	cout << "nikoloz" << endl; // prints !!!Hello World!!!
-
+	cout << "nikoloz" << endl;
 }
 
 }
